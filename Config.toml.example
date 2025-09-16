@@ -1,0 +1,11 @@
+rpc_url = "https://polygon-rpc.com"
+router_a = "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff"
+router_b = "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+weth = "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+usdc = "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+auto_poll = true
+poll_interval_seconds = 15
+trade_size_weth = 0.5
+min_profit_usdc = 1.0
+simulated_gas_usdc = 0.5
+db_path = "opportunities.db"

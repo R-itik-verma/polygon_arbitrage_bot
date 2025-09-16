@@ -1,0 +1,3 @@
+# Polygon Arbitrage Opportunity Detector (Rust)
+...
+(omitted for brevity, same content as in canvas)
